@@ -1,0 +1,15 @@
+{
+    "name": "project",
+    "install": {
+        "map": [
+            {
+                "source": "./",
+                "installTo": "./"
+            },
+            {
+                "source": "./omni",
+                "installTo": "./nested-omni/"
+            }
+        ]
+    }
+}
